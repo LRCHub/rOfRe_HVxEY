@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "アルクアラウンド",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-14T10:57:21.774054Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アルクアラウンド",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_アルクアラウンド_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アルクアラウンド",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_アルクアラウンド_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aruku Around [アルクアラウンド]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Aruku_Around_[アルクアラウンド]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アルクアラウンド",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/04_アルクアラウンド_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アルクアラウンド - Arukuaround",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/05_アルクアラウンド_-_Arukuaround_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アルクアラウンド",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/06_アルクアラウンド_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アルクアラウンド",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/07_アルクアラウンド_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アルクアラウンド",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/08_アルクアラウンド_サカナクション.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルクアラウンド",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_アルクアラウンド_サカナクション.txt"
+    }
+  ]
+}
